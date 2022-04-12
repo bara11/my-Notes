@@ -1,0 +1,4 @@
+rwx
+read 4-bit 
+write 2-bit
+execute 1-bit
