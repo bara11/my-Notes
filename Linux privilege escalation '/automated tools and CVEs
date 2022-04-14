@@ -2,6 +2,10 @@ linpeas: https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS
 kernel-exploits : https://github.com/lucyoa/kernel-exploits
 dirsearch: https://github.com/maurosoria/dirsearch
 sudo-cve-2019-18634 :   https://github.com/saleemrashid/sudo-cve-2019-18634
+LinPeas - https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite/tree/master/linPEAS
+LinEnum - https://github.com/rebootuser/LinEnum
+Linux Exploit Suggester - https://github.com/mzet-/linux-exploit-suggester
+Linux Priv Checker - https://github.com/sleventyeleven/linuxprivchecker
 cve covered in course :
 https://www.exploit-db.com/exploits/47502
 https://www.exploit-db.com/exploits/47502
