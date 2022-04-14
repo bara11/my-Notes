@@ -1,0 +1,14 @@
+system enumuration:
+uname- a
+ps
+user enumration:
+1- id 
+2- /etc/passwd
+network enumration:
+1-ifconfig
+2- ip route
+3- ip neigh
+4-netstat -ano
+password hunting:
+command:
+grep --color=auto -rnw '/' -ie "PASSWORD" --color=always 2> /dev/null
