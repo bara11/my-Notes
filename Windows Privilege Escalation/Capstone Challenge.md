@@ -2,7 +2,7 @@
 <br/>
 [Batstard](https://app.hackthebox.com/machines/7)
 <br/>
-[Altered](https://app.hackthebox.com/machines/460]
+[Altered](https://app.hackthebox.com/machines/460)
 <br/>
 [Basion](https://app.hackthebox.com/machines/186)
 <br/>
